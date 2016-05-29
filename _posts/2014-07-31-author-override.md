@@ -51,4 +51,3 @@ Tidak semua teknologi di atas dimasukkan pada spesifikasi HTML5 W3C, meski tekno
 Geolocation
 Web SQL Database, media penyimpanan database lokal.
 API Database terindeks, mode penyimpanan hierarkis key-value (WebSimpleDB).
-Post navigatston-Werner.
